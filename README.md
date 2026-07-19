@@ -26,11 +26,8 @@ Especializado en el desarrollo de investigación aplicada sobre procesos de frag
 
 ---
 
-## Contacto
-
-* **LinkedIn:** [www.linkedin.com/in/gerald-gonzalez]
-* **Correo Electrónico:** [leo311.gg@gmail.com]
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gerald-gonzalez)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo311.gg@gmail.com
 <!--
 **Donderecker/Donderecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
