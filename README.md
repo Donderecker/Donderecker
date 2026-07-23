@@ -54,13 +54,6 @@ Este perfil funciona como portafolio técnico para documentar proyectos relacion
 &nbsp;&nbsp;&nbsp;
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="90">
 &nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/SNAP_Logo.png" width="90">
-
-</p>
-
-<p align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Google_Earth_icon.svg" width="90">
 
 </p>
 
