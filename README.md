@@ -1,81 +1,99 @@
-# 🌎 Geógrafo | Análisis Territorial y Sistemas de Información Geográfica (SIG)
+# Geógrafo | Análisis Territorial y Sistemas de Información Geográfica (SIG)
 
-Geógrafo de la **Universidad Austral de Chile**, con formación en análisis territorial, sistemas de información geográfica (SIG), cartografía digital y procesamiento de datos espaciales.
+Geógrafo de la Universidad Austral de Chile, con formación en análisis territorial, sistemas de información geográfica (SIG), cartografía digital y procesamiento de datos espaciales.
 
-Mi trabajo se enfoca en la aplicación de metodologías geoespaciales para el estudio de transformaciones territoriales, fragmentación rural y dinámicas espaciales mediante análisis SIG, teledetección, programación y construcción de bases de datos territoriales.
+Mi trabajo se enfoca en el análisis de transformaciones territoriales mediante metodologías geoespaciales, teledetección y construcción de bases de datos territoriales. Poseo experiencia en procesamiento de información raster y vectorial, automatización de análisis espaciales y desarrollo de productos cartográficos.
 
-Este perfil funciona como portafolio técnico para documentar proyectos relacionados con análisis espacial, procesamiento de imágenes satelitales, automatización cartográfica y ciencia de datos aplicada al territorio.
+Este perfil funciona como portafolio técnico para documentar proyectos relacionados con análisis espacial, procesamiento de imágenes satelitales, cartografía automatizada y ciencia de datos aplicada al territorio.
 
 ---
 
-# 🛰️ Competencias Técnicas
+## Competencias Técnicas
 
-## 🌎 Análisis Geoespacial y SIG
+### Análisis Geoespacial y SIG
 
-- Procesamiento y análisis de datos espaciales.
-- Elaboración de cartografía temática y automatización de procesos.
-- Manejo de información raster y vectorial.
-- Análisis territorial mediante herramientas SIG.
+- Procesamiento y análisis de información espacial raster y vectorial.
+- Elaboración de cartografía temática y productos geográficos.
+- Gestión, limpieza y estructuración de bases de datos territoriales.
+- Análisis espacial aplicado a problemáticas territoriales.
 
-## 🛰️ Teledetección y Análisis Satelital
+### Teledetección y Análisis Satelital
 
-- Procesamiento de imágenes Sentinel y Landsat.
-- Clasificación supervisada mediante Machine Learning.
+- Procesamiento de imágenes satelitales Sentinel y Landsat.
+- Clasificación supervisada mediante algoritmos de Machine Learning.
 - Análisis multitemporal de coberturas territoriales.
-- Uso de Google Earth Engine para procesamiento geoespacial.
+- Procesamiento de información mediante Google Earth Engine.
 
-## 📊 Ciencia de Datos Aplicada
+### Programación y Ciencia de Datos
 
-- Limpieza y estructuración de bases de datos.
-- Análisis exploratorio de información territorial.
-- Visualización y comunicación de resultados.
+- Automatización de procesos geoespaciales mediante Python y R.
+- Análisis exploratorio y visualización de datos.
+- Desarrollo de notebooks reproducibles para análisis espacial.
 
 ---
 
-# 🛠️ Herramientas y Tecnologías
-
-## 🗺️ Sistemas de Información Geográfica
+## Herramientas y Tecnologías
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/SNAP-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90">
+&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" width="90">
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="90">
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="90">
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="90">
+&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="90">
+&nbsp;&nbsp;&nbsp;
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="90">
+&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/SNAP_Logo.png" width="90">
+
+</p>
+
+<p align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Google_Earth_icon.svg" width="90">
 
 </p>
 
 
-## 🐍 Programación y Análisis de Datos
+### Software utilizado
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
-
-</p>
-
-
-## 💻 Desarrollo y Gestión de Proyectos
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
+- **QGIS:** análisis espacial, procesamiento SIG y elaboración cartográfica.
+- **Python:** procesamiento de datos, automatización y Machine Learning aplicado a información geográfica.
+- **JupyterLab:** desarrollo y documentación de análisis mediante notebooks.
+- **R / RStudio:** análisis estadístico y procesamiento de datos.
+- **Visual Studio Code:** desarrollo y organización de proyectos.
+- **ESA SNAP:** procesamiento de imágenes satelitales Sentinel.
+- **Google Earth Engine:** procesamiento y análisis de imágenes satelitales.
+- **Google Colab:** ejecución de notebooks y procesamiento remoto.
+- **Power BI:** visualización y análisis de datos.
 
 ---
 
-# 📂 Proyectos Destacados
+## Proyectos y Cartografía
 
-*(Próximamente)*
+Actualmente en construcción.
+
+Próximamente se incorporarán proyectos relacionados con:
+
+- Análisis territorial.
+- Fragmentación rural.
+- Clasificación de coberturas mediante Machine Learning.
+- Procesamiento de imágenes satelitales.
+- Cartografía temática.
 
 ---
 
-# 📫 Contacto
+## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gerald-gonzalez)
 
