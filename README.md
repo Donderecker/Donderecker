@@ -80,8 +80,8 @@ Infografía técnica y análisis territorial sobre el incendio de Interfaz Urban
 - **Herramientas:** QGIS, Análisis espacial, Diseño cartográfico / infográfico.
 - **Enfoque:** Reducción del Riesgo de Desastres (RRD), interfaz urbano-forestal y planificación territorial.
 
-<!-- Aquí insertas la imagen con la técnica de arrastrar y soltar en GitHub -->
-![Infografía Resiliencia Incendio Valparaíso 2014][Valparaíso 2014 - G.Gonzalez.pdf](https://github.com/user-attachments/files/31760967/Valparaiso.2014.-.G.Gonzalez.pdf)
+![Infografía Resiliencia Incendio Valparaíso 2014](<img width="3508" height="4968" alt="Valparaíso 2014 - G Gonzalez_page-0001" src="https://github.com/user-attachments/assets/d030c355-e190-4332-ac16-8e287fb64e81" />)
+[Valparaíso 2014 - G.Gonzalez.pdf](https://github.com/user-attachments/files/31760967/Valparaiso.2014.-.G.Gonzalez.pdf)
 
 ---
 
