@@ -74,17 +74,23 @@ Este perfil funciona como portafolio técnico para documentar proyectos relacion
 
 ## Proyectos y Cartografía
 
-Actualmente en construcción.
+### 📍 Gestión del Riesgo y Resiliencia Urbana: Incendio Valparaíso 2014
+Infografía técnica y análisis territorial sobre el incendio de Interfaz Urbano-Forestal (IUF) ocurrido en Valparaíso en 2014. El trabajo integra modelamiento espacial (DEM, zonificación y áreas afectadas) junto a propuestas de adaptación estructuradas bajo el marco de las **4R de la resiliencia** (*Robustez, Redundancia, Recursos y Rapidez*).
 
-Próximamente se incorporarán proyectos relacionados con:
+- **Herramientas:** QGIS, Análisis espacial, Diseño cartográfico / infográfico.
+- **Enfoque:** Reducción del Riesgo de Desastres (RRD), interfaz urbano-forestal y planificación territorial.
 
-- Análisis territorial.
-- Fragmentación rural.
-- Clasificación de coberturas mediante Machine Learning.
-- Procesamiento de imágenes satelitales.
-- Cartografía temática.
+<!-- Aquí insertas la imagen con la técnica de arrastrar y soltar en GitHub -->
+![Infografía Resiliencia Incendio Valparaíso 2014][Valparaíso 2014 - G.Gonzalez.pdf](https://github.com/user-attachments/files/31760967/Valparaiso.2014.-.G.Gonzalez.pdf)
 
 ---
+
+### 🚀 Próximamente / En Desarrollo
+- Análisis territorial y fragmentación rural.
+- Clasificación de coberturas mediante Machine Learning.
+- Procesamiento de imágenes satelitales (GEE).
+- Cartografía temática automatizada.
+
 
 ## Contacto
 
