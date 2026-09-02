@@ -81,7 +81,10 @@ Infografía técnica y análisis territorial sobre el incendio de Interfaz Urban
 - **Enfoque:** Reducción del Riesgo de Desastres (RRD), interfaz urbano-forestal y planificación territorial.
 
 ![Infografía Resiliencia Incendio Valparaíso 2014](<img width="3508" height="4968" alt="Valparaíso 2014 - G Gonzalez_page-0001" src="https://github.com/user-attachments/assets/d030c355-e190-4332-ac16-8e287fb64e81" />)
-[Valparaíso 2014 - G.Gonzalez.pdf](https://github.com/user-attachments/files/31760967/Valparaiso.2014.-.G.Gonzalez.pdf)
+<img src="https://github.com/user-attachments/assets/d030c355-e190-4332-ac16-8e287fb64e81" alt="Infografía Resiliencia Incendio Valparaíso 2014" width="750px" />
+
+<br>
+📄 [Descargar infografía completa en PDF](https://github.com/user-attachments/files/31760967/Valparaiso.2014.-.G.Gonzalez.pdf)
 
 ---
 
