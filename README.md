@@ -1,74 +1,88 @@
+<div align="center">
+
 # Geógrafo | Análisis Territorial y Sistemas de Información Geográfica (SIG)
 
-Geógrafo de la Universidad Austral de Chile, con formación en análisis territorial, sistemas de información geográfica (SIG), cartografía digital y procesamiento de datos espaciales.
-
-Mi trabajo se enfoca en el análisis de transformaciones territoriales mediante metodologías geoespaciales, teledetección y construcción de bases de datos territoriales. Poseo experiencia en procesamiento de información raster y vectorial, automatización de análisis espaciales y desarrollo de productos cartográficos.
-
-Este perfil funciona como portafolio técnico para documentar proyectos relacionados con análisis espacial, procesamiento de imágenes satelitales, cartografía automatizada y ciencia de datos aplicada al territorio.
+**Universidad Austral de Chile**  
+*Análisis territorial · Cartografía digital · Modelamiento geoespacial · Teledetección*
 
 ---
 
-## Competencias Técnicas
+<p align="justify">
+Geógrafo titulado de la Universidad Austral de Chile con especialización en análisis territorial, sistemas de información geográfica (SIG) y procesamiento de datos espaciales. Mi trabajo se enfoca en el estudio de dinámicas socioambientales y transformaciones territoriales mediante metodologías geoespaciales avanzadas, teledetección satelital y diseño de bases de datos geográficas. Cuento con experiencia en flujos analíticos raster/vectorial, automatización de geoprocesos mediante programación y desarrollo de salidas cartográficas de alta precisión para la toma de decisiones.
+</p>
 
-### Análisis Geoespacial y SIG
-
-- Procesamiento y análisis de información espacial raster y vectorial.
-- Elaboración de cartografía temática y productos geográficos.
-- Gestión, limpieza y estructuración de bases de datos territoriales.
-- Análisis espacial aplicado a problemáticas territoriales.
-
-### Teledetección y Análisis Satelital
-
-- Procesamiento de imágenes satelitales Sentinel y Landsat.
-- Clasificación supervisada mediante algoritmos de Machine Learning.
-- Análisis multitemporal de coberturas territoriales.
-- Procesamiento de información mediante Google Earth Engine.
-
-### Programación y Ciencia de Datos
-
-- Automatización de procesos geoespaciales mediante Python y R.
-- Análisis exploratorio y visualización de datos.
-- Desarrollo de notebooks reproducibles para análisis espacial.
+</div>
 
 ---
 
-## Herramientas y Tecnologías
+## 🛠️ Competencias Técnicas
 
-<p align="center">
+<table width="100%">
+  <tr>
+    <td width="33.33%" valign="top">
+      <div align="center">
+        <h3>🗺️ Análisis Geoespacial & SIG</h3>
+      </div>
+      <ul>
+        <li>Procesamiento y modelamiento vectorial y raster avanzado.</li>
+        <li>Diseño de cartografía temática y estandarización de salidas gráficas.</li>
+        <li>Gestión, depuración y estructuración de geodatabases (GPKG, PostGIS).</li>
+        <li>Evaluación multicriterio aplicada a problemáticas socio-territoriales.</li>
+      </ul>
+    </td>
+    <td width="33.33%" valign="top">
+      <div align="center">
+        <h3>🛰️ Teledetección & Sensores</h3>
+      </div>
+      <ul>
+        <li>Procesamiento y corrección de imágenes Sentinel-2 y Landsat.</li>
+        <li>Clasificación supervisada mediante algoritmos de Machine Learning.</li>
+        <li>Detección de cambios y análisis multitemporal de coberturas de suelo.</li>
+        <li>Procesamiento masivo en la nube vía <b>Google Earth Engine</b>.</li>
+      </ul>
+    </td>
+    <td width="33.33%" valign="top">
+      <div align="center">
+        <h3>💻 Ciencia de Datos Espaciales</h3>
+      </div>
+      <ul>
+        <li>Automatización de flujos y geoprocesamiento en <b>Python</b> y <b>R</b>.</li>
+        <li>Análisis exploratorio, geoestadística y cálculo sobre grafos viales.</li>
+        <li>Construcción de notebooks reproducibles e interactivos.</li>
+        <li>Modelado de indicadores espaciales y visualización de datos.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90">
-&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" width="90">
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="90">
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="90">
+---
 
-</p>
+## ⚙️ Stack Tecnológico & Herramientas
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="90">
-&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="90">
-&nbsp;&nbsp;&nbsp;
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="90">
-&nbsp;&nbsp;&nbsp;
+| SIG & Teledetección | Programación & Análisis | Entornos & Visualización |
+| :---: | :---: | :---: |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" width="48" alt="QGIS"/><br><b>QGIS</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" alt="Python"/><br><b>Python</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/><br><b>VS Code</b> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Earth_Engine_logo.svg" width="48" alt="GEE"/><br><b>Earth Engine</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48" alt="R"/><br><b>R Project</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" alt="Jupyter"/><br><b>JupyterLab</b> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ESA_logo.svg/1200px-ESA_logo.svg.png" width="48" alt="SNAP"/><br><b>ESA SNAP</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/><br><b>PostGIS / SQL</b> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" alt="Power BI"/><br><b>Power BI</b> |
 
-</p>
+</div>
 
+<br>
 
-### Software utilizado
+<details>
+<summary><b>Detalle de uso por software</b></summary>
+<br>
 
-- **QGIS:** análisis espacial, procesamiento SIG y elaboración cartográfica.
-- **Python:** procesamiento de datos, automatización y Machine Learning aplicado a información geográfica.
-- **JupyterLab:** desarrollo y documentación de análisis mediante notebooks.
-- **R / RStudio:** análisis estadístico y procesamiento de datos.
-- **Visual Studio Code:** desarrollo y organización de proyectos.
-- **ESA SNAP:** procesamiento de imágenes satelitales Sentinel.
-- **Google Earth Engine:** procesamiento y análisis de imágenes satelitales.
-- **Google Colab:** ejecución de notebooks y procesamiento remoto.
-- **Power BI:** visualización y análisis de datos.
+- **QGIS:** Análisis espacial multicriterio, procesamiento vectorial/raster y composición cartográfica avanzada.
+- **Python:** Automatización geoespacial (`geopandas`, `rasterio`, `leafmap`, `whitebox`) y análisis de datos.
+- **R / RStudio:** Análisis estadístico territorial, modelamiento de redes viales (`dodgr`), mallas hexagonales (`h3`) y cartografía con `tmap`.
+- **Google Earth Engine:** Consultas masivas, cálculo de índices espectrales (NDVI, NBR, NDWI) y balance multitemporal.
+- **Visual Studio Code & Jupyter:** Control de versiones, estructuración de proyectos reproducibles y documentación técnica.
+- **Power BI:** Conexión de tablas espaciales y construcción de dashboards de seguimiento territorial.
+
+</details>
 
 ---
 
