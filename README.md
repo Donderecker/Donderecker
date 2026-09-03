@@ -118,7 +118,8 @@ Geógrafo titulado de la Universidad Austral de Chile con especialización en an
         <img src="https://img.shields.io/badge/Diseño_Infográfico-E67E22?style=flat-square" alt="Diseño" />
       </p>
       <p>
-        📄 <a href="https://github.com/user-attachments/files/31760967/Valparaiso.2014.-.G.Gonzalez.pdf" target="_blank"><b>Ver Documento / Lámina Completa (PDF)</b></a>
+        
+</b></a>
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
@@ -197,7 +198,7 @@ Geógrafo titulado de la Universidad Austral de Chile con especialización en an
       <div align="center" style="margin-top: 15px;">
         <img src="https://github.com/user-attachments/assets/bea0d81b-54e1-4fe9-9433-8e3016d5c302" alt="Clasificación Supervisada Multitemporal 2018 vs 2024 Valdivia" width="100%" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.12);" />
         <br>
-        <sub><i>Figura: Comparativa de clasificación supervisada de cobertura del suelo (2018 vs 2024) en la comuna de Valdivia.</i></sub>
+        <sub><i>Figura: Comparativa de clasificación supervisada de cobertura del suelo (2018 vs 2024) Sector Este, en la comuna de Osorno.</i></sub>
       </div>
     </td>
   </tr>
