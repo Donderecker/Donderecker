@@ -2,7 +2,8 @@
   <img src="https://github.com/user-attachments/assets/16fc2cb7-e957-47a2-b304-6151840f4be9" alt="Banner Portada" width="100%" />
 </p>
 <div align="center">
-# Geógrafo | Análisis Territorial y Sistemas de Información Geográfica (SIG)
+
+  # Geógrafo | Análisis Territorial y Sistemas de Información Geográfica (SIG)
 
 
 *Análisis territorial · Cartografía digital · Modelamiento geoespacial · Teledetección*
