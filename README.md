@@ -174,7 +174,7 @@ Geógrafo titulado de la Universidad Austral de Chile con especialización en an
     <td colspan="2" valign="top">
       <h3>🛰️ Clasificación Supervisada Multitemporal y Fusión Sensorial (Machine Learning)</h3>
       <p>
-        <b>Contexto & Diagnóstico:</b> Monitoreo de dinámicas de ocupación y cambio en las coberturas del suelo en la comuna de Valdivia (periodo 2018–2024). El desafío radicó en discriminar clases complejas (construcciones dispersas, parcelaciones, suelos agrícolas y tipos de vegetación) en un entorno templado-húmedo con alta nubosidad y relieve accidentado.
+        <b>Contexto & Diagnóstico:</b> Monitoreo de dinámicas de ocupación y cambio en las coberturas del suelo en la comuna de Osorno (periodo 2018–2024). El desafío radicó en discriminar clases complejas (construcciones dispersas, parcelaciones, suelos agrícolas y tipos de vegetación) en un entorno templado-húmedo con alta nubosidad y relieve accidentado.
       </p>
       <p>
         <b>Metodología Aplicada:</b> 
