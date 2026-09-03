@@ -168,6 +168,7 @@ Geógrafo titulado de la Universidad Austral de Chile con especialización en an
 </table>
 
 <!-- PROYECTO 3: Clasificación Multitemporal ML (Ancho Completo) -->
+
   <tr>
     <td colspan="2" valign="top">
       <h3>🛰️ Clasificación Supervisada Multitemporal y Fusión Sensorial (Machine Learning)</h3>
