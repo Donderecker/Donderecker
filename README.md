@@ -72,33 +72,79 @@ Este perfil funciona como portafolio técnico para documentar proyectos relacion
 
 ---
 
-## Proyectos y Cartografía
+## 🗺️ Proyectos Seleccionados & Cartografía
 
-### 📍 Gestión del Riesgo y Resiliencia Urbana: Incendio Valparaíso 2014
-Infografía técnica y análisis territorial sobre el incendio de Interfaz Urbano-Forestal (IUF) ocurrido en Valparaíso en 2014. El trabajo integra modelamiento espacial (DEM, zonificación y áreas afectadas) junto a propuestas de adaptación estructuradas bajo el marco de las **4R de la resiliencia** (*Robustez, Redundancia, Recursos y Rapidez*).
+<table>
+  <!-- PROYECTO 1 -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>📍 Gestión del Riesgo y Resiliencia Urbana: Incendio Valparaíso 2014</h3>
+      <p>
+        <b>Contexto & Diagnóstico:</b> Análisis territorial multidimensional sobre el gran incendio de Interfaz Urbano-Forestal (IUF) ocurrido en Valparaíso en 2014. El estudio aborda la compleja topografía de quebradas, la precariedad habitacional y la vegetación pirófila como factores determinantes de la vulnerabilidad y propagación del fuego.
+      </p>
+      <p>
+        <b>Metodología Aplicada:</b> Modelamiento geoespacial mediante Modelos Digitales de Elevación (DEM) para pendientes y exposición, cruce de capas de zonificación urbana y delimitación del perímetro de afectación. Las propuestas de adaptación urbana se articularon bajo el marco teórico de las <b>4R de la Resiliencia</b> (<i>Robustez, Redundancia, Recursos y Rapidez</i>).
+      </p>
+      <p>
+        <b>Resultado:</b> Generación de una lámina infográfica técnica de síntesis orientada a la toma de decisiones y a la divulgación de directrices de mitigación para la Reducción del Riesgo de Desastres (RRD).
+      </p>
+      <p>
+        <b>Áreas de Enfoque:</b> Reducción del Riesgo de Desastres (RRD) · Interfaz Urbano-Forestal (IUF) · Planificación y Resiliencia Territorial
+      </p>
+      <p>
+        <b>Stack Técnico:</b><br>
+        <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
+        <img src="https://img.shields.io/badge/Modelamiento_DEM-2C3E50?style=flat-square" alt="DEM" />
+        <img src="https://img.shields.io/badge/Cartografía_Temática-16A085?style=flat-square" alt="Cartografía" />
+        <img src="https://img.shields.io/badge/Diseño_Infográfico-E67E22?style=flat-square" alt="Diseño" />
+      </p>
+      <p>
+        📄 <a href="https://github.com/user-attachments/files/31760967/Valparaiso.2014.-.G.Gonzalez.pdf" target="_blank"><b>Ver Documento / Lámina Completa (PDF)</b></a>
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://github.com/user-attachments/files/31760967/Valparaiso.2014.-.G.Gonzalez.pdf" target="_blank">
+        <img src="https://github.com/user-attachments/assets/d030c355-e190-4332-ac16-8e287fb64e81" alt="Infografía Resiliencia Incendio Valparaíso 2014" width="400px" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.12);" />
+      </a>
+      <br>
+      <sub><i>Clic en la imagen para abrir la lámina técnica en alta resolución</i></sub>
+    </td>
+  </tr>
 
-- **Herramientas:** QGIS, Análisis espacial, Diseño cartográfico / infográfico.
-- **Enfoque:** Reducción del Riesgo de Desastres (RRD), interfaz urbano-forestal y planificación territorial.
-
-<img src="https://github.com/user-attachments/assets/d030c355-e190-4332-ac16-8e287fb64e81" alt="Infografía Resiliencia Incendio Valparaíso 2014" width="750px" />
-
-<br>
-📄 (https://github.com/user-attachments/files/31760967/Valparaiso.2014.-.G.Gonzalez.pdf)
-
----
-
-## Modelado de Accesibilidad Espacial a Equipamientos de Salud
-
-Implementación de un flujo de análisis espacial en R orientado a evaluar la fricción territorial y los tiempos de desplazamiento hacia equipamientos críticos. A través de mallas hexagonales jerárquicas (**H3**) y cálculo de rutas mínimas sobre grafos viales ponderados (**dodgr / OpenStreetMap**), se modeló el costo temporal (peatonal/vehicular) por celda para detectar brechas de cobertura territorial.
-
-
-<img width="3507" height="2480" alt="Composición 1" src="https://github.com/user-attachments/assets/f5711624-6d36-496f-9aad-5c5e18fae8a8" />
-
-*Figura 1: Tiempos de desplazamiento (minutos) hacia el equipamiento de salud más próximo sobre grilla hexagonal.*
-
-**Tecnologías:** `R` · `sf` · `H3` · `dodgr` · `tmap` · `OpenStreetMap` · `QGIS`
-
-
+  <!-- PROYECTO 2 -->
+  <tr>
+    <td width="58%" valign="top">
+      <h3>🏥 Modelado de Accesibilidad Espacial a Equipamientos de Salud</h3>
+      <p>
+        <b>Contexto & Diagnóstico:</b> Evaluación de la equidad territorial y el acceso a equipamientos críticos de salud (centros asistenciales y unidades de diálisis). El proyecto busca superar la limitación de los radios de distancia euclidiana tradicional ("a vuelo de pájaro"), cuantificando la fricción real que impone la trama urbana sobre los desplazamientos de la población.
+      </p>
+      <p>
+        <b>Metodología Aplicada:</b> Implementación de un pipeline en R que combina indexación espacial jerárquica con <b>H3 (Uber)</b> y ruteo sobre redes con <b>dodgr</b>. Se teseló el territorio en celdas regulares para homogeneizar la unidad de análisis y se descargó la red vial desde <b>OpenStreetMap</b>, calibrando grafos ponderados según impedancia y modos de desplazamiento (caminata peatonal y automóvil).
+      </p>
+      <p>
+        <b>Resultado:</b> Modelación de matrices de costo temporal continuo hacia el punto de salud más cercano, generación de cartografía temática con <code>tmap</code> y exportación de coberturas en GeoPackage para su integración y explotación en QGIS.
+      </p>
+      <p>
+        <b>Áreas de Enfoque:</b> Accesibilidad Territorial · Teoría de Grafos y Redes · Geoestadística · Planificación Sanitaria
+      </p>
+      <p>
+        <b>Stack Técnico:</b><br>
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+        <img src="https://img.shields.io/badge/sf-4682B4?style=flat-square" alt="sf" />
+        <img src="https://img.shields.io/badge/H3_Uber-000000?style=flat-square" alt="H3" />
+        <img src="https://img.shields.io/badge/dodgr-E67E22?style=flat-square" alt="dodgr" />
+        <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OSM" />
+        <img src="https://img.shields.io/badge/tmap-8E44AD?style=flat-square" alt="tmap" />
+        <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/f5711624-6d36-496f-9aad-5c5e18fae8a8" alt="Composición Accesibilidad Salud H3 dodgr" width="400px" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.12);" />
+      <br>
+      <sub><i>Gradientes de tiempo de desplazamiento (minutos) hacia el centro de salud más cercano</i></sub>
+    </td>
+  </tr>
+</table>
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gerald-gonzalez)
