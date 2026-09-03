@@ -87,11 +87,16 @@ Infografía técnica y análisis territorial sobre el incendio de Interfaz Urban
 
 ---
 
-### 🚀 Próximamente / En Desarrollo
-- Análisis territorial y fragmentación rural.
-- Clasificación de coberturas mediante Machine Learning.
-- Procesamiento de imágenes satelitales (GEE).
-- Cartografía temática automatizada.
+## Modelado de Accesibilidad Espacial a Equipamientos de Salud
+
+Implementación de un flujo de análisis espacial en R orientado a evaluar la fricción territorial y los tiempos de desplazamiento hacia equipamientos críticos. A través de mallas hexagonales jerárquicas (**H3**) y cálculo de rutas mínimas sobre grafos viales ponderados (**dodgr / OpenStreetMap**), se modeló el costo temporal (peatonal/vehicular) por celda para detectar brechas de cobertura territorial.
+
+![Mapa de Tiempos de Desplazamiento]
+<img width="3507" height="2480" alt="Composición 1" src="https://github.com/user-attachments/assets/f5711624-6d36-496f-9aad-5c5e18fae8a8" />
+
+*Figura 1: Tiempos de desplazamiento (minutos) hacia el equipamiento de salud más próximo sobre grilla hexagonal.*
+
+**Tecnologías:** `R` · `sf` · `H3` · `dodgr` · `tmap` · `OpenStreetMap` · `QGIS`
 
 
 ## Contacto
