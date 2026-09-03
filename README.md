@@ -61,11 +61,10 @@ Geógrafo titulado de la Universidad Austral de Chile con especialización en an
 
 <div align="center">
 
-| SIG & Teledetección | Programación & Análisis | Entornos & Visualización |
+| SIG & Análisis Espacial | Programación & Datos | Entornos & Visualización |
 | :---: | :---: | :---: |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" width="48" alt="QGIS"/><br><b>QGIS</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" alt="Python"/><br><b>Python</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/><br><b>VS Code</b> |
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48" alt="R"/><br><b>R Project</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" alt="Jupyter"/><br><b>JupyterLab</b> |
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/><br><b>PostGIS / SQL</b> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" alt="Power BI"/><br><b>Power BI</b> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL / PostGIS"/><br><b>PostGIS / SQL</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48" alt="R"/><br><b>R Project</b> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" alt="Power BI"/><br><b>Power BI</b> |
 
 </div>
 
@@ -76,13 +75,17 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-origina
 <br>
 
 - **QGIS:** Análisis espacial multicriterio, procesamiento vectorial/raster y composición cartográfica avanzada.
+- **Google Earth Engine:** Procesamiento y análisis de imágenes satelitales en la nube, cálculo de índices espectrales (NDVI, NBR, NDWI) y análisis multitemporal con colecciones Sentinel y Landsat.
+- **ESA SNAP:** Procesamiento y tratamiento de imágenes satelitales Sentinel.
 - **Python:** Automatización geoespacial (`geopandas`, `rasterio`, `leafmap`, `whitebox`) y análisis de datos.
 - **R / RStudio:** Análisis estadístico territorial, modelamiento de redes viales (`dodgr`), mallas hexagonales (`h3`) y cartografía con `tmap`.
-- **Google Earth Engine:** Consultas masivas, cálculo de índices espectrales (NDVI, NBR, NDWI) y balance multitemporal.
-- **Visual Studio Code & Jupyter:** Control de versiones, estructuración de proyectos reproducibles y documentación técnica.
-- **Power BI:** Conexión de tablas espaciales y construcción de dashboards de seguimiento territorial.
+- **PostGIS / SQL:** Consultas espaciales, gestión de geometrías y estructuración de geodatabases relacionales.
+- **Visual Studio Code & JupyterLab:** Desarrollo y documentación de análisis reproducibles mediante notebooks y scripts.
+- **Google Colab:** Ejecución de notebooks y procesamiento remoto en la nube.
+- **Power BI:** Visualización, análisis de datos y construcción de dashboards de seguimiento territorial.
 
 </details>
+
 ---
 
 ## 🗺️ Proyectos Seleccionados & Cartografía
