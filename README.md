@@ -167,6 +167,40 @@ Geógrafo titulado de la Universidad Austral de Chile con especialización en an
   </tr>
 </table>
 
+<!-- PROYECTO 3: Clasificación Multitemporal ML (Ancho Completo) -->
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛰️ Clasificación Supervisada Multitemporal y Fusión Sensorial (Machine Learning)</h3>
+      <p>
+        <b>Contexto & Diagnóstico:</b> Monitoreo de dinámicas de ocupación y cambio en las coberturas del suelo en la comuna de Valdivia (periodo 2018–2024). El desafío radicó en discriminar clases complejas (construcciones dispersas, parcelaciones, suelos agrícolas y tipos de vegetación) en un entorno templado-húmedo con alta nubosidad y relieve accidentado.
+      </p>
+      <p>
+        <b>Metodología Aplicada:</b> 
+        Pipeline de fusión sensorial multiespectral y de radar. Se integraron bandas ópticas de <b>Sentinel-2</b>, retrodispersión de radar de apertura sintética (SAR) de <b>Sentinel-1</b> y variables topográficas derivadas de un <b>DEM</b>, preprocesados y co-registrados en <b>ESA SNAP</b>. La clasificación se ejecutó en Python mediante un modelo de <b>Random Forest</b> optimizado por bloques (<code>GeoRandomForestClassifier</code>), entrenado con polígonos de muestra en formato GPKG y evaluado mediante métricas de validación cruzada (Accuracy global, Kappa, F1-Score por clase e importancia de bandas espectrales).
+      </p>
+      <p>
+        <b>Resultado:</b> Mapeo multitemporal de 8 clases de cobertura del suelo (Agrícola, Agua, Arbóreo, Construcciones, Pastizal, Plantas Bajas, Sin Vegetación y Roca/Pavimento), evidenciando la expansión de áreas construidas e infraestructura vial hacia 2024.
+      </p>
+      <p>
+        <b>Áreas de Enfoque:</b> Teledetección · Fusión Óptica/SAR · Machine Learning Aplicado · Detección de Cambios
+      </p>
+      <p>
+        <b>Stack Técnico:</b><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Random_Forest-F39C12?style=flat-square" alt="Random Forest" />
+        <img src="https://img.shields.io/badge/Sentinel--1_(SAR)-003399?style=flat-square" alt="Sentinel-1" />
+        <img src="https://img.shields.io/badge/Sentinel--2_(Óptico)-003399?style=flat-square" alt="Sentinel-2" />
+        <img src="https://img.shields.io/badge/ESA_SNAP-2C3E50?style=flat-square" alt="SNAP" />
+        <img src="https://img.shields.io/badge/GeoPackage-000000?style=flat-square" alt="GPKG" />
+      </p>
+      <div align="center" style="margin-top: 15px;">
+        <img src="https://github.com/user-attachments/assets/bea0d81b-54e1-4fe9-9433-8e3016d5c302" alt="Clasificación Supervisada Multitemporal 2018 vs 2024 Valdivia" width="100%" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.12);" />
+        <br>
+        <sub><i>Figura: Comparativa de clasificación supervisada de cobertura del suelo (2018 vs 2024) en la comuna de Valdivia.</i></sub>
+      </div>
+    </td>
+  </tr>
+
 
 ## Contacto
 
